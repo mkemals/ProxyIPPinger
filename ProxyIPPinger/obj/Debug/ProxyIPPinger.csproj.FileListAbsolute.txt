@@ -1,0 +1,20 @@
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\bin\Debug\ProxyIPPinger.exe.config
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\bin\Debug\ProxyIPPinger.exe
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\bin\Debug\ProxyIPPinger.pdb
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\obj\Debug\ProxyIPPinger.csprojResolveAssemblyReference.cache
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\obj\Debug\ProxyIPPinger.frmMain.resources
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\obj\Debug\ProxyIPPinger.Properties.Resources.resources
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\obj\Debug\ProxyIPPinger.csproj.GenerateResource.Cache
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\obj\Debug\ProxyIPPinger.exe
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\obj\Debug\ProxyIPPinger.pdb
+C:\Users\mustafa.sürmeneli\Documents\Visual Studio 2015\Projects\ProxyOpenClose\ProxyIPPinger\bin\Debug\ProxyIPList.xml
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\bin\Debug\Preferences.xml
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\bin\Debug\ProxyIPPinger.exe
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\bin\Debug\ProxyIPPinger.pdb
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\obj\Debug\ProxyIPPinger.csprojResolveAssemblyReference.cache
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\obj\Debug\ProxyIPPinger.frmMain.resources
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\obj\Debug\ProxyIPPinger.frmSettings.resources
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\obj\Debug\ProxyIPPinger.Properties.Resources.resources
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\obj\Debug\ProxyIPPinger.csproj.GenerateResource.Cache
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\obj\Debug\ProxyIPPinger.exe
+C:\TFSPROJECTS\TKMProjectCollection\TKMDevelopmentTools\TKM.ProxyTools\ProxyIPPinger\obj\Debug\ProxyIPPinger.pdb
