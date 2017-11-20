@@ -1,0 +1,17 @@
+<Preferences>
+  <Settings>
+    <Setting>
+      <TimerInterval>60</TimerInterval>
+      <PingForUsedIPOnly>True</PingForUsedIPOnly>
+      <AutoChangeProxy>False</AutoChangeProxy>
+    </Setting>
+  </Settings>
+  <ProxyIPList>
+    <ProxyIP Enable="True" IP="10.6.80.21" UseCount="0" PingCount="4" FailCount="0" />
+    <ProxyIP Enable="False" IP="10.6.80.22" UseCount="11" PingCount="4" FailCount="0" />
+    <ProxyIP Enable="False" IP="10.6.80.23" UseCount="0" PingCount="4" FailCount="0" />
+    <ProxyIP Enable="True" IP="10.1.95.31" UseCount="0" PingCount="4" FailCount="0" />
+    <ProxyIP Enable="True" IP="10.1.95.32" UseCount="0" PingCount="4" FailCount="0" />
+    <ProxyIP Enable="False" IP="10.1.95.37" UseCount="0" PingCount="4" FailCount="0" />
+  </ProxyIPList>
+</Preferences>
